@@ -1,4 +1,4 @@
-# Data preprocessing script
+# Data preprocessing Script
 # data_preprocessing.py
 
 import pandas as pd 
