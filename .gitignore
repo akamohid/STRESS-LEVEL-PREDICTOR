@@ -5,9 +5,6 @@ __pycache__/
 venv/
 .env
 
-# Data
-data/*.csv
-
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
