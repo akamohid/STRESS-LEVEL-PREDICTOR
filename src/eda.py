@@ -1,4 +1,4 @@
-# Exploratory Data Analysis script
+# Exploratory Data Analysis 
 # src/eda.py
 
 import pandas as pd
