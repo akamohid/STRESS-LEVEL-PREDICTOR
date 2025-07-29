@@ -1,5 +1,5 @@
-# Performance metrics plotting script
-# modeling.py
+# Model training and evaluation script
+# evaluation.py
 
 import pandas as pd
 import numpy as np

@@ -1,7 +1,7 @@
 # Data preprocessing script
 # data_preprocessing.py
 
-import pandas as pd
+import pandas as pd 
 from sklearn.preprocessing import StandardScaler
 from sklearn.model_selection import train_test_split
 
