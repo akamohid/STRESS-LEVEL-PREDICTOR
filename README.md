@@ -145,5 +145,5 @@ This project is released under the **MIT License**. See [LICENSE](LICENSE) for d
 
 Made with ❤️ by **Mohid Arshad**.  
 ✉️ Email: akamohid@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/mohid-arshad-347180235/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/akamohid/)  
 Feel free to open issues, contribute, or drop a ⭐!
